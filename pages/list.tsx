@@ -8,6 +8,7 @@ import {
 	Text,
 	useMediaQuery,
 	Tooltip,
+	Image,
 } from '@geist-ui/react'
 import { QuestionCircle } from '@geist-ui/react-icons'
 const fetch = require('node-fetch')
@@ -20,9 +21,14 @@ const HomeRoutes = ({ routes }) => {
 	return (
 		<>
 			<Page size="small">
+				{upMD && (
+					<Image src="https://source.unsplash.com/ESEnXckWlLY/1500x700" />
+				)}
+
+				<Spacer />
 				<Text h1>
 					{' '}
-					Public Links{' '}
+					The <Code>Fren</Code> Circle{' '}
 					<Tooltip text={"What's this?"} placement="right">
 						<Link href="https://github.com/rishiosaur/ll">
 							<QuestionCircle />
@@ -31,8 +37,7 @@ const HomeRoutes = ({ routes }) => {
 				</Text>
 
 				<Text>
-					Welcome to LL! Here are some interesting links that this website's
-					owner's publicly shared (URL parameter forwarding <i>is</i>{' '}
+					Welcome to the Frens webring; we're just a bunch of <Link color href="https://hackclub.com/"><Code>Hack Clubbers</Code></Link> that love building cool stuff ✨ (URL parameter forwarding <i>is</i>{' '}
 					available):
 				</Text>
 				<Table
@@ -63,7 +68,7 @@ const HomeRoutes = ({ routes }) => {
 					</Link>
 					] by{' '}
 					<Link href="https://rishi.cx" color>
-						Rishi Kothari
+						@rishiosaur
 					</Link>
 				</Text>
 			</Page>
