@@ -73,7 +73,8 @@ const HomeRoutes = ({ routes }) => {
 					] by{' '}
 					<Link href="https://rishi.cx" color>
 						@rishiosaur
-					</Link>
+					</Link>{' '}
+					- <Link href="https://z.rishi.cx/g/frens">Source</Link>
 				</Text>
 			</Page>
 		</>
