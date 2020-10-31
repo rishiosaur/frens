@@ -82,5 +82,12 @@
 		"title": "Saharsh Yeruva",
 		"description": "hey",
 		"public": true
+	},
+	{
+		"name": "ronald",
+		"url": "https://googol.now.sh",
+		"title": "Ronald",
+		"description": "🦖",
+		"public": true
 	}
 ]
