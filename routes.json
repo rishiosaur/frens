@@ -5,5 +5,12 @@
 		"title": "Ricey!",
 		"description": "Just another dude that codes",
 		"public": true
+	},
+	{
+		"name": "caleb",
+		"url": "https://calebdenio.me",
+		"title": "Caleb Denio",
+		"description": "Random coder who makes random stuff",
+		"public": true
 	}
 ]
