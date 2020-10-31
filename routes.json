@@ -32,6 +32,41 @@
 		"url": "https://github.com/nythrox",
 		"title": "Jason",
 		"description": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "public": true
+  },
+  {
+		"name": "hitesh",
+		"url": "https://nindroz.me",
+		"title": "Hitesh!",
+		"description": "dev and wannabe designer",
+    "public": true
+  },  
+  {
+		"name": "matt",
+		"url": "https://mattglei.ch/",
+		"title": "Matt Gleich",
+		"description": "Turtle who codes",
+     "public": true
+  },
+  {
+		"name": "fayd",
+		"url": "https://fayd.me",
+		"title": "Fayd!",
+		"description": "Fun guy who loves to explore things and a proud hackclubber.",
+    "public": true
+  },
+  {
+		"name": "matthew",
+		"url": "https://matthewstanciu.me",
+		"title": "Matthew",
+		"description": "✨",
+		"public": true
+	},
+  {
+		"name": "ben",
+		"url": "https://benaubin.com",
+		"title": "Ben",
+		"description": "I conduct machine-learning research, build websites, launch apps and run businesses.",
 		"public": true
 	}
 ]
