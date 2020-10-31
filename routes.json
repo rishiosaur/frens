@@ -47,5 +47,12 @@
 		"title": "Matthew",
 		"description": "✨",
 		"public": true
+	},
+  {
+		"name": "ben",
+		"url": "https://benaubin.com",
+		"title": "Ben",
+		"description": "I conduct machine-learning research, build websites, launch apps and run businesses.",
+		"public": true
 	}
 ]
