@@ -26,5 +26,12 @@
 		"title": "Caleb Denio",
 		"description": "Random coder who makes random stuff",
 		"public": true
+	},
+	{
+		"name": "matthew",
+		"url": "https://matthewstanciu.me",
+		"title": "Matthew",
+		"description": "✨",
+		"public": true
 	}
 ]
