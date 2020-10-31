@@ -3,6 +3,7 @@
     "name": "rishi",
     "url": "https://rishi.cx",
     "title": "Ricey!",
-    "description": "Just another dude that codes"
+    "description": "Just another dude that codes",
+    "public": true
    }
 ]
