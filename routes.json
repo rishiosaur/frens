@@ -68,5 +68,12 @@
 		"title": "Ben",
 		"description": "I conduct machine-learning research, build websites, launch apps and run businesses.",
 		"public": true
+	},
+{
+		"name": "amogh",
+		"url": "https://amogh.sh",
+		"title": "Amogh",
+		"description": "Freestyle rapper, among other things",
+		"public": true
 	}
 ]
