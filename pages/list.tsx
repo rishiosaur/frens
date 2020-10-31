@@ -37,7 +37,11 @@ const HomeRoutes = ({ routes }) => {
 				</Text>
 
 				<Text>
-					Welcome to the Frens webring; we're just a bunch of <Link color href="https://hackclub.com/"><Code>Hack Clubbers</Code></Link> that love building cool stuff ✨ (URL parameter forwarding <i>is</i>{' '}
+					Welcome to the Frens webring; we're just a bunch of{' '}
+					<Link color href="https://hackclub.com/">
+						<Code>Hack Clubbers</Code>
+					</Link>{' '}
+					that love building cool stuff ✨ (URL parameter forwarding <i>is</i>{' '}
 					available):
 				</Text>
 				<Table
