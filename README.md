@@ -30,3 +30,5 @@ A minimal link shortener powered by Next.js and Vercel.
 The websites that show up on [the website](https://w.rishi.cx) can be found over at [`routes.json`](https://github.com/rishiosaur/frens/blob/main/routes.json)!
 
 Just add yourself to the array in an object that conforms to the above protocol!
+
+_Note_: You _must_ be on the Hack Club Slack (and be an active member) to be accepted into the collection :p
