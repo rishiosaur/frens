@@ -28,6 +28,13 @@
 		"public": true
 	},
 	{
+		"name": "hitesh",
+		"url": "https://nindroz.me",
+		"title": "Hitesh!",
+		"description": "dev and wannabe designer",
+    "public": true
+  },  
+  {
 		"name": "matt",
 		"url": "https://mattglei.ch/",
 		"title": "Matt Gleich",
