@@ -75,5 +75,12 @@
 		"title": "Amogh",
 		"description": "Freestyle rapper, among other things",
 		"public": true
+	},
+	{
+		"name": "saharshxyz",
+		"url": "https://saharsh.tech",
+		"title": "Saharsh Yeruva",
+		"description": "hey",
+		"public": true
 	}
 ]
