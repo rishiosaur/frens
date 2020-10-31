@@ -26,5 +26,12 @@
 		"title": "Caleb Denio",
 		"description": "Random coder who makes random stuff",
 		"public": true
+	},
+	{
+		"name": "matt",
+		"url": "https://mattglei.ch/",
+		"title": "Matt Gleich",
+		"description": "Turtle who codes",
+		"public": true
 	}
 ]
