@@ -28,6 +28,13 @@
 		"public": true
 	},
 	{
+		"name": "matt",
+		"url": "https://mattglei.ch/",
+		"title": "Matt Gleich",
+		"description": "Turtle who codes",
+     "public": true
+  },
+  {
 		"name": "fayd",
 		"url": "https://fayd.me",
 		"title": "Fayd!",
