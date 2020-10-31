@@ -12,5 +12,12 @@
 		"title": "E-Lee-Za!",
 		"description": "Resident huhuhu-ing young British animated gamedev and artist girl! ^_^",
 		"public": true
+	},
+	{
+		"name": "khushraj",
+		"url": "https://www.khushrajrathod.me",
+		"title": "Khushraj!",
+		"description": "idk but I like deno",
+		"public": true
 	}
 ]
