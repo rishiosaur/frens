@@ -32,6 +32,27 @@
 		"url": "https://nindroz.me",
 		"title": "Hitesh!",
 		"description": "dev and wannabe designer",
+    "public": true
+  },  
+  {
+		"name": "matt",
+		"url": "https://mattglei.ch/",
+		"title": "Matt Gleich",
+		"description": "Turtle who codes",
+     "public": true
+  },
+  {
+		"name": "fayd",
+		"url": "https://fayd.me",
+		"title": "Fayd!",
+		"description": "Fun guy who loves to explore things and a proud hackclubber.",
+    "public": true
+  },
+  {
+		"name": "matthew",
+		"url": "https://matthewstanciu.me",
+		"title": "Matthew",
+		"description": "✨",
 		"public": true
 	}
 ]
