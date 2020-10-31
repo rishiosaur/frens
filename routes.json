@@ -19,5 +19,12 @@
 		"title": "Khushraj!",
 		"description": "idk but I like deno",
 		"public": true
+	},
+	{
+		"name": "caleb",
+		"url": "https://calebdenio.me",
+		"title": "Caleb Denio",
+		"description": "Random coder who makes random stuff",
+		"public": true
 	}
 ]
