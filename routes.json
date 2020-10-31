@@ -26,5 +26,12 @@
 		"title": "Caleb Denio",
 		"description": "Random coder who makes random stuff",
 		"public": true
+	},
+	{
+		"name": "jason",
+		"url": "https://github.com/nythrox",
+		"title": "Jason",
+		"description": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+		"public": true
 	}
 ]
