@@ -97,5 +97,12 @@
 		"title": "Ronald",
 		"description": "🦖",
 		"public": true
+	},
+	{
+		"name": "edwin",
+		"url": "https://edwinkofler.com",
+		"title": "Edwin Kofler",
+		"description": "Edwin the Red Panda - I write code!",
+		"public": true
 	}
 ]
