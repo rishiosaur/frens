@@ -89,13 +89,20 @@
 		"url": "https://srtk.me",
 		"title": "Sarthak Mohanty",
 		"description": "howdy",
-    "public": true
-  }
-   {
+		"public": true
+	},
+	{
 		"name": "ronald",
 		"url": "https://googol.now.sh",
 		"title": "Ronald",
 		"description": "🦖",
+		"public": true
+	},
+	{
+		"name": "sam",
+		"url": "https://sampoder.com",
+		"title": "Sam",
+		"description": "A mixed bag",
 		"public": true
 	}
 ]
