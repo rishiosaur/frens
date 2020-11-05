@@ -32,44 +32,44 @@
 		"url": "https://github.com/nythrox",
 		"title": "Jason",
 		"description": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
-    "public": true
-  },
-  {
+		"public": true
+	},
+	{
 		"name": "hitesh",
 		"url": "https://nindroz.me",
 		"title": "Hitesh!",
 		"description": "dev and wannabe designer",
-    "public": true
-  },  
-  {
+		"public": true
+	},
+	{
 		"name": "matt",
 		"url": "https://mattglei.ch/",
 		"title": "Matt Gleich",
 		"description": "Turtle who codes",
-     "public": true
-  },
-  {
+		"public": true
+	},
+	{
 		"name": "fayd",
 		"url": "https://fayd.me",
 		"title": "Fayd!",
 		"description": "Fun guy who loves to explore things and a proud hackclubber.",
-    "public": true
-  },
-  {
+		"public": true
+	},
+	{
 		"name": "matthew",
 		"url": "https://matthewstanciu.me",
 		"title": "Matthew",
 		"description": "✨",
 		"public": true
 	},
-  {
+	{
 		"name": "ben",
 		"url": "https://benaubin.com",
 		"title": "Ben Aubin",
 		"description": "I conduct machine-learning research, build websites, launch apps and run businesses.",
 		"public": true
 	},
-{
+	{
 		"name": "amogh",
 		"url": "https://amogh.sh",
 		"title": "Amogh",
@@ -84,18 +84,24 @@
 		"public": true
 	},
 	{
-
 		"name": "s",
 		"url": "https://srtk.me",
 		"title": "Sarthak Mohanty",
 		"description": "howdy",
-    "public": true
-  },
-   {
+		"public": true
+	},
+	{
 		"name": "ronald",
 		"url": "https://googol.now.sh",
 		"title": "Ronald",
 		"description": "🦖",
+		"public": true
+	},
+	{
+		"name": "safin",
+		"url": "https://safin.dev",
+		"title": "Safin Singh",
+		"description": "trying my best to pretend i know how to code",
 		"public": true
 	}
 ]
