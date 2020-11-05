@@ -98,6 +98,12 @@
 		"public": true
 	},
 	{
+		"name": "sam",
+		"url": "https://sampoder.com",
+		"title": "Sam",
+		"description": "A mixed bag",
+    "public": true
+  }
 		"name": "safin",
 		"url": "https://safin.dev",
 		"title": "Safin Singh",
