@@ -96,5 +96,117 @@
     "title": "Ronald",
     "description": "🦖",
     "public": true
-  }
+  },
+	{
+		"name": "rishi",
+		"url": "https://rishi.cx",
+		"title": "Ricey!",
+		"description": "Just another dude that codes :p 🌁",
+		"public": true
+	},
+	{
+		"name": "eleeza",
+		"url": "https://scrapbook.hackclub.com/e-lee-za/",
+		"title": "E-Lee-Za!",
+		"description": "Resident huhuhu-ing young British animated gamedev and artist girl! ^_^",
+		"public": true
+	},
+	{
+		"name": "khushraj",
+		"url": "https://www.khushrajrathod.me",
+		"title": "Khushraj!",
+		"description": "idk but I like deno",
+		"public": true
+	},
+	{
+		"name": "caleb",
+		"url": "https://calebdenio.me",
+		"title": "Caleb Denio",
+		"description": "Random coder who makes random stuff",
+		"public": true
+	},
+	{
+		"name": "jason",
+		"url": "https://github.com/nythrox",
+		"title": "Jason",
+		"description": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+		"public": true
+	},
+	{
+		"name": "hitesh",
+		"url": "https://nindroz.me",
+		"title": "Hitesh!",
+		"description": "dev and wannabe designer",
+		"public": true
+	},
+	{
+		"name": "matt",
+		"url": "https://mattglei.ch/",
+		"title": "Matt Gleich",
+		"description": "Turtle who codes",
+		"public": true
+	},
+	{
+		"name": "fayd",
+		"url": "https://fayd.me",
+		"title": "Fayd!",
+		"description": "Fun guy who loves to explore things and a proud hackclubber.",
+		"public": true
+	},
+	{
+		"name": "matthew",
+		"url": "https://matthewstanciu.me",
+		"title": "Matthew",
+		"description": "✨",
+		"public": true
+	},
+	{
+		"name": "ben",
+		"url": "https://benaubin.com",
+		"title": "Ben Aubin",
+		"description": "I conduct machine-learning research, build websites, launch apps and run businesses.",
+		"public": true
+	},
+	{
+		"name": "amogh",
+		"url": "https://amogh.sh",
+		"title": "Amogh",
+		"description": "Freestyle rapper, among other things",
+		"public": true
+	},
+	{
+		"name": "saharshxyz",
+		"url": "https://saharsh.tech",
+		"title": "Saharsh Yeruva",
+		"description": "hey",
+		"public": true
+	},
+	{
+		"name": "s",
+		"url": "https://srtk.me",
+		"title": "Sarthak Mohanty",
+		"description": "howdy",
+		"public": true
+	},
+	{
+		"name": "ronald",
+		"url": "https://googol.now.sh",
+		"title": "Ronald",
+		"description": "🦖",
+		"public": true
+	},
+	{
+		"name": "sam",
+		"url": "https://sampoder.com",
+		"title": "Sam",
+		"description": "A mixed bag",
+    "public": true
+  },
+  {
+		"name": "safin",
+		"url": "https://safin.dev",
+		"title": "Safin Singh",
+		"description": "trying my best to pretend i know how to code",
+		"public": true
+	}
 ]
