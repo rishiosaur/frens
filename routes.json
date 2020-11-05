@@ -98,6 +98,14 @@
 		"public": true
 	},
 	{
+
+		"name": "edwin",
+		"url": "https://edwinkofler.com",
+		"title": "Edwin Kofler",
+		"description": "Edwin the Red Panda - I write code!",
+    "public": true
+  },
+  {
 		"name": "sam",
 		"url": "https://sampoder.com",
 		"title": "Sam",
