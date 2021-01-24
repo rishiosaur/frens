@@ -216,5 +216,12 @@
 		"title": "Safin Singh",
 		"description": "trying my best to pretend i know how to code",
 		"public": true
+	},
+	{
+		"name": "linus",
+		"url": "https://linus.sh",
+		"title": "Linus Skucas",
+		"description": "🦜🪂🌲 Linus!",
+		"public": true
 	}
 ]
