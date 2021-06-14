@@ -223,5 +223,12 @@
 		    "title": "Rajan Agarwal",
 		    "description": "ensuing chaos.",
 		    "public": true
-		  }
-	]
+		  },
+	{
+		"name": "tej",
+		"url": "https://github.com/tejasag",
+		"title": "Tejas Agarwal",
+		"description": "A Dolphin who uses linux and pretends to know how to code",
+		"public": true
+	}
+]
